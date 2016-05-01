@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1429517408 source:c:\users\palaciosleandro\dropbox\proyectoestructuras1\proyectoestructuras1\main.cpp
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<conio.h>
+	<ctype.h>
+	"include\Tortuga.h"
+
+1429517698 c:\users\palaciosleandro\dropbox\proyectoestructuras1\proyectoestructuras1\include\tortuga.h
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<math.h>
+	"LinkedList.h"
+	<fstream>
+
+1429509660 c:\users\palaciosleandro\dropbox\proyectoestructuras1\proyectoestructuras1\include\linkedlist.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+
+1428089879 c:\users\palaciosleandro\dropbox\proyectoestructuras1\proyectoestructuras1\include\node.h
+
+1429517408 source:c:\users\luisalonso\dropbox\proyectoestructuras1\proyectoestructuras1\main.cpp
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<conio.h>
+	<ctype.h>
+	"include\Tortuga.h"
+
+1429517698 c:\users\luisalonso\dropbox\proyectoestructuras1\proyectoestructuras1\include\tortuga.h
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<math.h>
+	"LinkedList.h"
+	<fstream>
+
+1429509660 c:\users\luisalonso\dropbox\proyectoestructuras1\proyectoestructuras1\include\linkedlist.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+
+1428089879 c:\users\luisalonso\dropbox\proyectoestructuras1\proyectoestructuras1\include\node.h
+
+1429497507 source:d:\usuarios\david\david\proyectoestructuras1\main.cpp
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<conio.h>
+	<ctype.h>
+	"include\Tortuga.h"
+
+1429497598 d:\usuarios\david\david\proyectoestructuras1\include\tortuga.h
+	<winbgim.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<math.h>
+	"LinkedList.h"
+	<fstream>
+
+1429434617 d:\usuarios\david\david\proyectoestructuras1\include\linkedlist.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+
+1428089879 d:\usuarios\david\david\proyectoestructuras1\include\node.h
+

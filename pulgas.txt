@@ -1,0 +1,5 @@
+write -> enciclado, comillas
+el verde
+la tortuga(right, left)
+repeat dentro de un repeat
+limites

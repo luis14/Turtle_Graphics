@@ -1,0 +1,12 @@
+forward 50
+right 90
+forward 50
+right 90
+forward 50
+right 90
+color 50 50 50
+forward 50
+penup
+setpos 80 80
+color red
+write 2 paquita la del barrio
